@@ -1,0 +1,5 @@
+Direfencia entre administracion y gestión:
+
+Administración: Es la parte organizativa de todo proyecto que nos ayuda a no perder el hilo de lo que estemos haciendo.
+
+Gestión: Hacer un ordenamiento a todo lo administrado y así mejorar las cosas dentro del proyecto, hacerlo más fluido.
